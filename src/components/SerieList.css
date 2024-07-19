@@ -1,0 +1,20 @@
+.serie-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .serie-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .serie-item h3 {
+    margin: 0;
+  }
+  
+  .serie-item p {
+    margin: 5px 0;
+  }
+  
